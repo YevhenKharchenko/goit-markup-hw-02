@@ -49,6 +49,10 @@ button {
   color: #404bbf;
 }
 
+.contacts {
+  font-style: normal;
+}
+
 .tel-mail {
   color: #434455;
   font-size: 16px;
@@ -70,7 +74,7 @@ button {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 
