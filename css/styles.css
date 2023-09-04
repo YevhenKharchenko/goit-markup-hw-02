@@ -17,26 +17,26 @@ button {
 }
 
 .logo {
-  color: #2e2f42;
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
 .logo .web {
-  color: #4d5ae5;
-  font-family: Raleway;
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
-.nav-list-studio {
+.nav-list-items {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
@@ -44,58 +44,20 @@ button {
   letter-spacing: 0.32px;
 }
 
-.nav-list-studio:hover,
-.nav-list-studio:focus {
+.nav-list-items:hover,
+.nav-list-items:focus {
   color: #404bbf;
 }
 
-.nav-list-portfolio {
-  color: #2e2f42;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
-}
-
-.nav-list-portfolio:hover,
-.nav-list-portfolio:focus {
-  color: #404bbf;
-}
-
-.nav-list-contacts {
-  color: #2e2f42;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
-}
-
-.nav-list-contacts:hover,
-.nav-list-contacts:focus {
-  color: #404bbf;
-}
-
-.mail {
-  color: #2e2f42;
+.tel-mail {
+  color: #434455;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.32px;
 }
 
-.mail:hover,
-.mail:focus {
-  color: #404bbf;
-}
-
-.tel {
-  color: #2e2f42;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.32px;
-}
-
-.tel:hover,
-.tel:focus {
+.tel-mail:hover,
+.tel-mail:focus {
   color: #404bbf;
 }
 
@@ -118,9 +80,7 @@ button {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
-  border-radius: 4px;
   background-color: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .main-btn:hover,
@@ -133,9 +93,13 @@ button {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+}
+
+.team-list {
+  background-color: #ffffff;
 }
 
 .advantages-description {
@@ -161,21 +125,21 @@ button {
 }
 
 .logo-footer {
-  color: #f4f4fd;
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
 .logo-footer .web {
-  color: #4d5ae5;
-  font-family: Raleway;
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
